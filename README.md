@@ -25,4 +25,6 @@ ___
 > Desenvolvedor
 > 261810120
 
-![FelipeGeroldi](./img/feriip3d.jpg) 
+![FelipeGeroldi](./img/feriip3d.jpg)
+> Felipe Geroldi
+> Desenvolvedor Web
