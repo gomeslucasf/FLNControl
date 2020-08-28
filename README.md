@@ -5,12 +5,8 @@ Coloquem as fotos de vcs iguais a minha
 
 # H1
 ## H2
-
-
 ### H3
 #### H4
-
-
 ##### H5
 ###### H6
 
@@ -26,6 +22,7 @@ ___
 > Lucas Gomes
 > Desenvolvedor
 > 261810120
+> https://github.com/gomeslucasf
 
 ![FelipeGeroldi](./img/feriip3d.jpg)
 > Felipe Geroldi
