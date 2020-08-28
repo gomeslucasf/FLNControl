@@ -3,6 +3,8 @@
 
 Aqui vamos colocar a descrição do sistema 
 
+Coloquem as fotos de vcs iguais a minha 
+
 
 ___
 ![LucasGomes](./img/lucas-gomes.jpg) 
