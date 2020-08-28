@@ -15,10 +15,10 @@ Alt-H1
 Alt-H2
 ------
 
-###### Descrições 
+###### Descrições
 ___
 
-![LucasGomes](./img/lucas-gomes.jpg) 
+![LucasGomes](./img/lucas-gomes.jpg)
 > Lucas Gomes
 > Desenvolvedor
 > 261810120
