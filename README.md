@@ -32,3 +32,8 @@ Alt-H2
 > 261811053
 > https://github.com/feriip3d
 
+![NathaliaAlmeida](./img/nathalia_almeida.jpg)
+> Nathalia Almeida
+> Desenvolvedora
+> 261810740
+> https://github.com/nathaliaAlmeidaProfile
