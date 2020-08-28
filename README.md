@@ -1,5 +1,8 @@
 # FLNControl
-ERP para empresa de materiais para construção
+## ERP para empresa de materiais para construção
+
+Aqui vamos colocar a descrição do sistema 
+
 
 ___
 ![LucasGomes](./img/lucas-gomes.jpg) 
