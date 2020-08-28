@@ -1,4 +1,7 @@
 # FLNControl
+
+ERP para empresa de materiais para construção
+=======
 ## ERP para empresa de materiais para construção
 Aqui vamos colocar a descrição do sistema
 
@@ -16,7 +19,6 @@ Alt-H2
 ------
 
 ###### Descrições
-___
 
 ![LucasGomes](./img/lucas-gomes.jpg)
 > Lucas Gomes
@@ -29,3 +31,4 @@ ___
 > Desenvolvedor Web
 > 261811053
 > https://github.com/feriip3d
+
