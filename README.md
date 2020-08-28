@@ -34,7 +34,6 @@ Alt-H2
 
 ![NathaliaAlmeida](./img/nathalia_almeida.jpg)
 > Nathalia Almeida
-> Desenvolvedora
+> Desenvolvedora ASP.NET
 > 261810740
 > https://github.com/nathaliaAlmeidaProfile
-
