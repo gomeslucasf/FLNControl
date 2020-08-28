@@ -5,7 +5,7 @@ Aqui vamos colocar a descrição do sistema
 
 Coloquem as fotos de vcs iguais a minha 
 
-
+###### descrições 
 ___
 ![LucasGomes](./img/lucas-gomes.jpg) 
 > Lucas Gomes
