@@ -26,11 +26,10 @@ Alt-H2
 > 261810120
 > https://github.com/gomeslucasf
 
-![FelipeGeroldi](./img/feriip3d.jpg)
 > Felipe Geroldi
 > Desenvolvedor Web
 > 261811053
-> https://github.com/feriip3d
+> https://github.com/felipegeroldi
 
 ![NathaliaAlmeida](./img/nathalia_almeida.jpg)
 > Nathalia Almeida
